@@ -20,3 +20,8 @@ pip install -r requirements.txt
 ```
 streamlit run dashboard_airQuality.py
 ```
+
+## Online Access
+'''
+To access it online, go to https://simple-dashboard.streamlit.app/
+'''
