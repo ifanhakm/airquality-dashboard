@@ -35,8 +35,8 @@ To run this project on your local machine, please follow these steps:
 **1. Clone the repository:**
 
 ```bash
-git clone https://github.com/ifanhakm/nama-repository-anda.git
-cd nama-repository-anda
+git clone https://github.com/ifanhakm/your-repository-name.git
+cd your-repository-name
 ```
 
 **2. Create a virtual environment (recommended):**
