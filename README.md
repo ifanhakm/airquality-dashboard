@@ -1,4 +1,5 @@
 # Air Quality Analysis Dashboard
+
 An interactive dashboard for analyzing and visualizing air quality data from various monitoring stations between 2013 and 2017. This project was developed as part of the Dicoding "Data Analyst Path" submission.
 
 ## 📖 About The Project
@@ -45,7 +46,13 @@ python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 ```
 
-**3. Run the Streamlit dashboard:**
+**3. Install the required libraries:**
+
+```bash
+pip install -r requirements.txt
+```
+
+**4. Run the Streamlit dashboard:**
 
 ```bash
 streamlit run dashboard_airQuality.py
